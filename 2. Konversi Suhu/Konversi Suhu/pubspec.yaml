@@ -1,0 +1,7 @@
+name: Konversi_Suhu
+version: 0.0.1
+description: Konversi suhu
+dependencies:
+
+dev_dependencies:
+#  unittest: any
